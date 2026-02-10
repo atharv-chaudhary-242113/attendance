@@ -8,7 +8,7 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
 from PyQt6.QtCore import Qt, QDate
 from PyQt6.QtGui import QColor
 
-from attendance_backend import AttendanceBrain
+from backend.attendance_backend import AttendanceBrain
 
 STYLESHEET = """
 QMainWindow { background-color: #000000; }
