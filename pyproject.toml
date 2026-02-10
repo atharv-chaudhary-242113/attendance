@@ -1,0 +1,13 @@
+[project]
+name = "attendance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "pyqt6>=6.10.2",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+]
